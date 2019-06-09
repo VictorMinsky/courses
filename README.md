@@ -1,2 +1,2 @@
-# courses
+# Courses
 My solution for MOOCs. My educational progress in MOOCs
