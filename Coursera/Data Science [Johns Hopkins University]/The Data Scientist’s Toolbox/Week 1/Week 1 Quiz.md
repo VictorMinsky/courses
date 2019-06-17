@@ -28,6 +28,32 @@ Why are we using R for the course track? Select all that apply:
 - [ ] R is a general purpose programming language.
 - [ ] R allows object oriented programming.
 
+Question 3
+----------
+What are good ways to find answers to questions in this course track? Select all that apply:
+
+- [x] Searching Google.
+- [x] Posting to the course discussion forum
+- [x] Searching Stack Overflow
+- [x] Asking a skilled friend.
+- [x] Looking through R help files.
+- [ ] Emailing the community TAs
+- [ ] Posting homework assignments to mailing lists
+- [ ] Emailing your instructors
+- [ ] Expecting every answer to be in a lecture slide
+- [ ] Posting homework assignments to mailing lists
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
