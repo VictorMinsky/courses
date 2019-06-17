@@ -60,27 +60,14 @@ What are good ways to find answers to questions in this course track? Select all
 - [ ] Is insulting or rude.
 - [ ] Is an exact homework question.
 
+Question 5
+----------
+Which of the following packages provides machine learning functionality? Select all that apply:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [x] kernlab
+- [x] pamr
+- [x] rpart
+- [x] gbm
+- [ ] knitr
+- [ ] cacheSweave
+- [ ] shiny
