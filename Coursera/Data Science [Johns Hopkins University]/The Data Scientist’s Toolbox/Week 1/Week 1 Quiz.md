@@ -43,6 +43,27 @@ What are good ways to find answers to questions in this course track? Select all
 - [ ] Expecting every answer to be in a lecture slide
 - [ ] Posting homework assignments to mailing lists
 
+Question 4
+----------
+What are good ways to find answers to questions in this course track? Select all that apply:
+
+- [x] Is polite and courteous.
+- [x] Is very specific.
+- [x] Explicitly lists versions of software being used.
+- [x] Describes the goal of the analysis.
+- [x] Provides the minimum amount of information necessary to communicate the problem.
+- [ ] Is an exact homework question.
+- [ ] Is insulting or rude.
+- [ ] Begs for help without providing information.
+- [ ] Provides no details.
+- [ ] Assumes that you've discovered a bug in R.
+- [ ] Is insulting or rude.
+- [ ] Is an exact homework question.
+
+
+
+
+
 
 
 
