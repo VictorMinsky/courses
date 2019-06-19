@@ -69,5 +69,3 @@ Install and load the KernSmooth R package. What does the copyright message say?
 - [ ] Copyright Coursera 2009-2013
 - [ ] Copyright M. P. Wand 1990-2009
 - [ ] Copyright Matthew Wand 1997-2009
-
-
