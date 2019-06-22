@@ -26,6 +26,7 @@ Question 3
 ----------
 Вопрос 3
 If the goal of a study was to relate Martha Stewart Living Subscribers to Our Site's Users based on the number of people that lived in each region of the US, what would be the potential problem?
+
 ![alt text](https://imgs.xkcd.com/comics/heatmap.png "Source: http://xkcd.com/1138/")
 
 - [x] There would be confounding because the number of people that live in an area is related to both Martha Stewart Living Subscribers and Our Site's Users.
