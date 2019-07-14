@@ -69,12 +69,40 @@ In R the following are all atomic data types EXCEPT: (Select all that apply):
 
 Question 5
 ----------
-Which of the following packages provides machine learning functionality? Select all that apply:
+If I execute the expression x <- 4 in R, what is the class of the object `x' as determined by the `class()' function?
 
-- [x] kernlab
-- [x] pamr
-- [x] rpart
-- [x] gbm
-- [ ] knitr
-- [ ] cacheSweave
-- [ ] shiny
+- [x] numeric
+- [ ] vector
+- [ ] real
+- [ ] list
+- [ ] integer
+- [ ] complex
+- [ ] matrix
+
+Question 6
+----------
+If I execute the expression x <- 4L in R, what is the class of the object `x' as determined by the `class()' function?
+
+- [x] integer
+- [ ] character
+- [ ] complex
+- [ ] numeric
+- [ ] logical
+- [ ] matrix
+
+**Explanation:**<br>
+*The 'L' suffix creates an integer vector as opposed to a numeric vector.*
+
+Question 7
+----------
+What is the class of the object defined by x <- c(4, TRUE)?
+
+- [x] numeric
+- [ ] integer
+- [ ] character
+- [ ] logical
+- [ ] list
+- [ ] matrix
+
+**Explanation:**<br>
+*The numeric class is the "lowest common denominator" here and so all elements will be coerced into that class.*
