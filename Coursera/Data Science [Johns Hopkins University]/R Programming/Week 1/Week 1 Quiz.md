@@ -81,7 +81,7 @@ If I execute the expression x <- 4 in R, what is the class of the object 'x' as 
 
 Question 6
 ----------
-If I execute the expression x <- 4L in R, what is the class of the object `x' as determined by the `class()' function?
+If I execute the expression x <- 4L in R, what is the class of the object 'x' as determined by the 'class()' function?
 
 - [x] integer
 - [ ] character
