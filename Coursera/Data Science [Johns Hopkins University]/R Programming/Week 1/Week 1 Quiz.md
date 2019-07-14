@@ -257,8 +257,8 @@ Question 19
 ----------
 Extract the first 2 rows of the data frame and print them to the console. What does the output look like?
 
-- [x]    Ozone Solar.R Wind Temp Month Day
-	 1    41     190  7.4   67     5   1
+- [x]    Ozone Solar.R Wind Temp Month Day<br>
+	 1    41     190  7.4   67     5   1<br>
 	 2    36     118  8.0   72     5   2
 
 **Explanation:**<br>
@@ -270,11 +270,9 @@ How many observations (i.e. rows) are in this data frame?
 
 - [x] 153
 - [ ] 160
+- [ ] 129
+- [ ] 45
 
-
-129
-
-
-45
-
+**Explanation:**<br>
+*You can use the 'nrows()' function to compute the number of rows in a data frame.*
 
