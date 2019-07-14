@@ -7,6 +7,9 @@ R was developed by statisticians working at:
 
 - [x] The University of Auckland
 - [ ] Bell Labs
+- [ ] StatSci
+- [ ] Insightful
+- [ ] Johns Hopkins University
 - [ ] Harvard University
 - [ ] The University of New South Wales
 
@@ -15,16 +18,15 @@ R was developed by statisticians working at:
 
 Question 2
 ----------
-Why are we using R for the course track? Select all that apply:
+The R language is a dialect of which of the following programming languages?
 
-- [x] R is one of the most widely used programming languages for Data Science.
-- [x] Packages are easy to install and "play nicely" together.
-- [x] R has a nice IDE, Rstudio.
-- [x] R is free.
-- [ ] R is the best cloud computing language.
-- [ ] R is the only programming language data scientists use.
-- [ ] R is a general purpose programming language.
-- [ ] R allows object oriented programming.
+- [x] S
+- [ ] Haskell
+- [ ] C
+- [ ] Java
+
+**Explanation:**
+*R is a dialect of the S language which was developed at Bell Labs*
 
 Question 3
 ----------
