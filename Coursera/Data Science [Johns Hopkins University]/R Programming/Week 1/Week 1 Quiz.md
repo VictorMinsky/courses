@@ -258,9 +258,11 @@ Question 19
 Extract the first 2 rows of the data frame and print them to the console. What does the output look like?
 
 - [x] 
-	Ozone Solar.R Wind Temp Month Day
-	1    41     190  7.4   67     5   1
-	2    36     118  8.0   72     5   2
+```
+   Ozone Solar.R Wind Temp Month Day
+1    41     190  7.4   67     5   1
+2    36     118  8.0   72     5   2 
+```
 
 **Explanation:**<br>
 *You can extract the first two rows using the [ operator and an integer sequence to index the rows.*
@@ -282,9 +284,11 @@ Question 21
 Extract the last 2 rows of the data frame and print them to the console. What does the output look like?
 
 - [x] 
+```
    Ozone Solar.R Wind Temp Month Day
  1    41     190  7.4   67     5   1
  2    36     118  8.0   72     5   2
+```
 
 **Explanation:**<br>
 *The 'tail()' function is an easy way to extract the last few elements of an R object.*
