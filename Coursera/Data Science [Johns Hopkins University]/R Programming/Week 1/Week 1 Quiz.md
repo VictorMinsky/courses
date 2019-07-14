@@ -30,18 +30,26 @@ The R language is a dialect of which of the following programming languages?
 
 Question 3
 ----------
-What are good ways to find answers to questions in this course track? Select all that apply:
+The definition of free software consists of four freedoms (freedoms 0 through 3). Which of the following is NOT one of the freedoms that are part of the definition? Select all that apply.
 
-- [x] Searching Google.
-- [x] Posting to the course discussion forum
-- [x] Searching Stack Overflow
-- [x] Asking a skilled friend.
-- [x] Looking through R help files.
+- [x] The freedom to prevent users from using the software for undesirable purposes.
+- [x] The freedom to sell the software for any price.
+- [x] The freedom to restrict access to the source code for the software.
+- [ ] Asking a skilled friend.
+- [ ] Looking through R help files.
 - [ ] Emailing the community TAs
 - [ ] Posting homework assignments to mailing lists
 - [ ] Emailing your instructors
 - [ ] Expecting every answer to be in a lecture slide
 - [ ] Posting homework assignments to mailing lists
+
+**Explanation:**
+*1. This is not part of the free software definition. Freedom 0 requires that the users of free software be free to use the software for any purpose.*
+*2. This is not part of the free software definition. The free software definition does not mention anything about selling software (although it does not disallow it).*
+*3. This is not part of the free software definition. Freedoms 1 and 3 require access to the source code.*
+
+
+
 
 Question 4
 ----------
