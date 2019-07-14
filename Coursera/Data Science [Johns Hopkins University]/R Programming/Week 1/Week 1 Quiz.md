@@ -106,3 +106,83 @@ What is the class of the object defined by x <- c(4, TRUE)?
 
 **Explanation:**<br>
 *The numeric class is the "lowest common denominator" here and so all elements will be coerced into that class.*
+
+Question 8
+----------
+What is the class of the object defined by the expression x <- c(4, "a", TRUE)?
+
+- [x] character
+- [ ] logical
+- [ ] numeric
+- [ ] mixed 
+- [ ] integer
+
+**Explanation:**<br>
+*The character class is the "lowest common denominator" here and so all elements will be coerced into that class.*
+
+Question 9
+----------
+If I have two vectors x <- c(1,3, 5) and y <- c(3, 2, 10), what is produced by the expression rbind(x, y)?
+
+- [x] a matrix with two rows and three columns
+- [ ] a 3 by 2 matrix
+- [ ] a 3 by 3 matrix
+- [ ] a vector of length 3
+- [ ] a vector of length 2
+- [ ] a 2 by 2 matrix
+
+**Explanation:**<br>
+*The 'rbind' function treats vectors as if they were rows of a matrix. It then takes those vectors and binds them together row-wise to create a matrix.*
+
+Question 10
+----------
+If I have two vectors x <- c(1,3, 5) and y <- c(3, 2, 10), what is produced by the expression cbind(x, y)?
+
+- [x] a matrix with 2 columns and 3 rows
+- [ ] a 2 by 3 matrix
+- [ ] a vector of length 3
+- [ ] a 2 by 2 matrix
+- [ ] a vector of length 2
+- [ ] a 3 by 3 matrix
+
+**Explanation:**<br>
+*The 'cbind' function treats vectors as if they were columns of a matrix. It then takes those vectors and binds them together column-wise to create a matrix.*
+
+Question 11
+----------
+A key property of vectors in R is that:
+
+- [x] elements of a vector all must be of the same class
+- [ ] a vector cannot have have attributes like dimensions
+- [ ] the length of a vector must be less than 32,768
+- [ ] elements of a vector can only be character or numeric
+- [ ] elements of a vector can be of different classes
+
+Question 12
+----------
+Suppose I have a list defined as x <- list(2, "a", "b", TRUE). What does x[[2]] give me? Select all that apply.
+
+- [x] a character vector of length 1.
+- [x] a character vector containing the letter "a".
+- [ ] a list containing a character vector with the elements "a" and "b".
+- [ ] a list containing character vector with the letter "a".
+- [ ] a character vector with the elements "a" and "b".
+
+Question 13
+----------
+Suppose I have a list defined as x <- list(2, "a", "b", TRUE). What does x[[1]] give me? Select all that apply.
+
+- [x] a numeric vector containing the element 2.
+- [x] a numeric vector of length 1.
+- [ ] a character vector containing the element "2".
+- [ ] a list containing a numeric vector of length 1.
+- [ ] a list containing the number 2.
+
+Question 14
+----------
+
+
+
+
+
+
