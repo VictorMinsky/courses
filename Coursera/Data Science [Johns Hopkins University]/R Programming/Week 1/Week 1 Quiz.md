@@ -261,7 +261,7 @@ Extract the first 2 rows of the data frame and print them to the console. What d
 	Ozone Solar.R Wind Temp Month Day
 	1    41     190  7.4   67     5   1
 	2    36     118  8.0   72     5   2
-	
+
 **Explanation:**<br>
 *You can extract the first two rows using the [ operator and an integer sequence to index the rows.*
 
@@ -281,6 +281,77 @@ Question 21
 ----------
 Extract the last 2 rows of the data frame and print them to the console. What does the output look like?
 
+- [x] 
+   Ozone Solar.R Wind Temp Month Day
+ 1    41     190  7.4   67     5   1
+ 2    36     118  8.0   72     5   2
+
 **Explanation:**<br>
 *The 'tail()' function is an easy way to extract the last few elements of an R object.*
+
+Question 22
+----------
+What is the value of Ozone in the 47th row?
+
+- [x] 21
+- [ ] 18
+- [ ] 63
+- [ ] 34
+
+**Explanation:**<br>
+*The single bracket [ operator can be used to extract individual rows of a data frame.*
+
+Question 23
+----------
+How many missing values are in the Ozone column of this data frame?
+
+- [x] 37 
+- [ ] 43
+- [ ] 9
+- [ ] 78
+
+**Explanation:**<br>
+*The 'is.na' function can be used to test for missing values.*
+
+Question 24
+----------
+What is the mean of the Ozone column in this dataset? Exclude missing values (coded as NA) from this calculation.
+
+- [x] 42.1
+- [ ] 31.5
+- [ ] 18.0
+- [ ] 53.2
+
+**Explanation:**<br>
+*The 'mean' function can be used to calculate the mean.*
+
+Question 25
+----------
+Extract the subset of rows of the data frame where Ozone values are above 31 and Temp values are above 90. What is the mean of Solar.R in this subset?
+
+- [x] 212.8
+- [ ] 205.0
+- [ ] 334.0
+- [ ] 185.9
+
+**Explanation:**<br>
+*You need to construct a logical vector in R to match the question's requirements. Then use that logical vector to subset the data frame.*
+
+Question 26
+----------
+What is the mean of "Temp" when "Month" is equal to 6?
+
+- [x] 79.1
+- [ ] 90.2
+- [ ] 85.6
+- [ ] 75.3
+
+Question 27
+----------
+What was the maximum ozone value in the month of May (i.e. Month is equal to 5)?
+
+- [x] 115
+- [ ] 18
+- [ ] 97
+- [ ] 100
 
