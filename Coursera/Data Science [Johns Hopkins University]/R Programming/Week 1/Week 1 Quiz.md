@@ -13,7 +13,7 @@ R was developed by statisticians working at:
 - [ ] Harvard University
 - [ ] The University of New South Wales
 
-**Explanation:**
+**Explanation:**<br>
 *The R language was developed by Ross Ihaka and Robert Gentleman who were statisticians at the University of Auckland in New Zealand.*
 
 Question 2
@@ -25,7 +25,7 @@ The R language is a dialect of which of the following programming languages?
 - [ ] C
 - [ ] Java
 
-**Explanation:**
+**Explanation:**<br>
 *R is a dialect of the S language which was developed at Bell Labs*
 
 Question 3
@@ -40,9 +40,9 @@ The definition of free software consists of four freedoms (freedoms 0 through 3)
 - [ ] The freedom to study how the program works, and adapt it to your needs.
 - [ ] The freedom to run the program, for any purpose.
 
-**Explanation:**
-*1. This is not part of the free software definition. Freedom 0 requires that the users of free software be free to use the software for any purpose.*
-*2. This is not part of the free software definition. The free software definition does not mention anything about selling software (although it does not disallow it).*
+**Explanation:**<br>
+*1. This is not part of the free software definition. Freedom 0 requires that the users of free software be free to use the software for any purpose.*<br>
+*2. This is not part of the free software definition. The free software definition does not mention anything about selling software (although it does not disallow it).*<br>
 *3. This is not part of the free software definition. Freedoms 1 and 3 require access to the source code.*
 
 Question 4
