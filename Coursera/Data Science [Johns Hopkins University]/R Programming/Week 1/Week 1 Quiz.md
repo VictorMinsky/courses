@@ -239,7 +239,7 @@ Suppose I have a vector x <- c(3, 5, 1, 10, 12, 6) and I want to set all element
 *2. You can create a logical vector with the expression x %in% 1:5 and then use the [ operator to subset the original vector x.*<br>
 *3. You can create a logical vector with the expression x <= 5 and then use the [ operator to subset the original vector x.*
 
-Question 17
+Question 18
 ----------
 Use the [Week 1 Quiz Data Set](https://d396qusza40orc.cloudfront.net/rprog/data/quiz1_data.zip) to answer questions 11-20.
 
@@ -249,5 +249,32 @@ In the dataset provided for this Quiz, what are the column names of the dataset?
 - [ ] Ozone, Solar.R, Wind
 - [ ] Month, Day, Temp, Wind
 - [ ] 1, 2, 3, 4, 5, 6
+
+**Explanation:**<br>
+*You can get the column names of a data frame with the 'names()' function.*
+
+Question 19
+----------
+Extract the first 2 rows of the data frame and print them to the console. What does the output look like?
+
+- [x]    Ozone Solar.R Wind Temp Month Day
+	 1    41     190  7.4   67     5   1
+	 2    36     118  8.0   72     5   2
+
+**Explanation:**<br>
+*You can extract the first two rows using the [ operator and an integer sequence to index the rows.*
+
+Question 20
+----------
+How many observations (i.e. rows) are in this data frame?
+
+- [x] 153
+- [ ] 160
+
+
+129
+
+
+45
 
 
