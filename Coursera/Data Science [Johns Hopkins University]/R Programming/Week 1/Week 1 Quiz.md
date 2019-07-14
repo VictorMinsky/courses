@@ -218,3 +218,24 @@ Suppose I have a vector x <- c(17, 14, 4, 5, 13, 12, 10) and I want to set all e
 *1. You can create a logical vector with the expression x >= 11 and then use the [ operator to subset the original vector x.*<br>
 *2. You can create a logical vector with the expression x > 10 and then use the [ operator to subset the original vector x.*
 
+Question 17
+----------
+Suppose I have a vector x <- c(3, 5, 1, 10, 12, 6) and I want to set all elements of this vector that are less than 6 to be equal to zero. What R code achieves this? Select all that apply.
+
+- [x] x[x < 6] <- 0
+- [x] x[x %in% 1:5] <- 0
+- [x] x[x <= 5] <- 0
+- [ ] x[x == 6] <- 0
+- [ ] x[x > 0] <- 6
+- [ ] x[x < 6] == 0
+- [ ] x[x > 6] <- 0
+- [ ] x[x != 6] <- 0
+- [ ] x[x >= 6] <- 0
+- [ ] x[x == 0] < 6
+- [ ] x[x == 0] <- 6
+
+**Explanation:**<br>
+*1. You can create a logical vector with the expression x < 6 and then use the [ operator to subset the original vector x.*<br>
+*2. You can create a logical vector with the expression x %in% 1:5 and then use the [ operator to subset the original vector x.*<br>
+*3. You can create a logical vector with the expression x <= 5 and then use the [ operator to subset the original vector x.*
+
