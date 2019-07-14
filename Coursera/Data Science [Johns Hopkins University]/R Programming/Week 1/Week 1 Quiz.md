@@ -69,7 +69,7 @@ In R the following are all atomic data types EXCEPT: (Select all that apply):
 
 Question 5
 ----------
-If I execute the expression x <- 4 in R, what is the class of the object `x' as determined by the `class()' function?
+If I execute the expression x <- 4 in R, what is the class of the object 'x' as determined by the 'class()' function?
 
 - [x] numeric
 - [ ] vector
@@ -180,7 +180,30 @@ Suppose I have a list defined as x <- list(2, "a", "b", TRUE). What does x[[1]] 
 
 Question 14
 ----------
+Suppose I have a vector x <- 1:4 and y <- 2:3. What is produced by the expression x + y?
 
+- [x] an integer vector with the values 3, 5, 5, 7.
+- [ ] an numeric vector with the values 3, 5, 5, 7.
+- [ ] a numeric vector with the values 1, 2, 5, 7.
+- [ ] a warning
+- [ ] an error.
+- [ ] an integer vector with the values 3, 5, 3, 4.
+- [ ] a numeric vector with the values 3, 5, 3, 4.
+
+Question 15
+----------
+Suppose I have a vector x <- 1:4 and a vector y <- 2. What is produced by the expression x + y?
+
+- [x] a numeric vector with elements 3, 4, 5, 6.
+- [ ] a numeric vector with elements 3, 2, 3, 6.
+- [ ] an integer vector with elements 3, 2, 3, 4.
+- [ ] a numeric vector with elements 1, 2, 3, 6.
+- [ ] an integer vector with elements 3, 2, 3, 6.
+- [ ] a numeric vector with elements 3, 2, 3, 4.
+
+Question 16
+----------
+Suppose I have a vector x <- c(17, 14, 4, 5, 13, 12, 10) and I want to set all elements of this vector that are greater than 10 to be equal to 4. What R code achieves this? Select all that apply.
 
 
 
