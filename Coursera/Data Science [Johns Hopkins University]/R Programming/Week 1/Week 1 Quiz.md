@@ -239,3 +239,15 @@ Suppose I have a vector x <- c(3, 5, 1, 10, 12, 6) and I want to set all element
 *2. You can create a logical vector with the expression x %in% 1:5 and then use the [ operator to subset the original vector x.*<br>
 *3. You can create a logical vector with the expression x <= 5 and then use the [ operator to subset the original vector x.*
 
+Question 17
+----------
+Use the [Week 1 Quiz Data Set](https://d396qusza40orc.cloudfront.net/rprog/data/quiz1_data.zip) to answer questions 11-20.
+
+In the dataset provided for this Quiz, what are the column names of the dataset?
+
+- [x] Ozone, Solar.R, Wind, Temp, Month, Day
+- [ ] Ozone, Solar.R, Wind
+- [ ] Month, Day, Temp, Wind
+- [ ] 1, 2, 3, 4, 5, 6
+
+
